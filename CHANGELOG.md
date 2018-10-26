@@ -4,6 +4,17 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+v1.6.0
+------------------------------
+*October 26, 2018*
+
+### Changed
+- Css style of social media icons regarding new design
+
+### Removed
+- Social media icons (now new icons live in f-icons module)
+
+
 v1.5.0
 ------------------------------
 *October 16, 2018*
